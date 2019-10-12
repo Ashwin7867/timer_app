@@ -1,4 +1,4 @@
-This is a timer app which is build in Reactjs and a the api used is build in nodejs. The data in the timer is getting saveed in the data.json file. Sematic ui is used for styling in the application.
+This is a timer app which is build in Reactjs and the api used is build in nodejs. The data in the timers is getting saveed in the data.json file. Sematic ui is used for styling in the application.
 
 
 ### Running the app
